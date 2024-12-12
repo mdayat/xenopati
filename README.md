@@ -1,5 +1,3 @@
-## Issues
-
 Here's some issues that I faced throughout this process when using Laravel for the first time:
 
 1. Unable to migrate when working with database migration feature. This issue is caused by the usage of pooled db connection string.
